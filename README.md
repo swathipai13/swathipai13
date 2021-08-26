@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on machine learning projects
+🌱 I’m also learning android and react native
+👯 I’m eagerly ready to collaborate on AncientVR
+🙂 I’d like to know developers on github better, send me a hi!
+💬 Ask me about hardware, AR and IoT
+📫 How to reach me: swapai13@protonmail.com
+😄 Pronouns: she/her
+⚡ Fun fact: Github is a bootstraped startup business!
 <!--
 **swathipai13/swathipai13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
