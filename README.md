@@ -27,7 +27,7 @@ Check my explorations :star:
 | Deep Learning                      |                              | :white_check_mark: |
 | GitHub                             | Of course:smirk:             |                    |
 | Unity                              | Some :sailboat:              |                    |
-| Arduino UNO,Nano,Mega              | Many :happy:                 |                    |
+| Arduino UNO,Nano,Mega              | Many :smile:                 |                    |
 | STM32, Raspberry Pico 4050, MSP430 | Some:sailboat:               |                    |
 | MATLAB, Scilab(open source)        |                              | :white_check_mark: |
 | Siemens PLC                        |                              | :white_check_mark: |
